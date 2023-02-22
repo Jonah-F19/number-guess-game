@@ -1,4 +1,4 @@
-package numberguess;
+//package numberguess;
 /*
  * This class expects to import a NumberGuessGame.jar file, 
  * and run the packaged source code as an executable.  
